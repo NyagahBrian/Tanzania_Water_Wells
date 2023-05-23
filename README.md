@@ -31,6 +31,22 @@ Build a model that meets the following criteria:
 Use machine learning models to correctly classify wells with an accuracy score of 70% - 75%
 
 
+
+
+**EXPLORATORY DATA ANALYSIS.**
+
+
+In the Exploratory Data Analysis (EDA) phase, we delve into understanding the dataset and gaining insights from its structure and content. Through visualizations, statistical summaries, and data exploration techniques, we aim to uncover patterns, relationships, and potential outliers within the data.
+
+This section was devided into:
+1. Univariate Anaysis.
+2. Bivaiate Analysis.
+3. Multivariate Analysis.   
+
+![image](https://github.com/NyagahBrian/Tanzania_Water_Wells/assets/124655143/fad8a79f-2274-44ab-88fe-271f3d4308f0)
+
+
+
 **FINDINGS.**
 
 
