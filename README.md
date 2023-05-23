@@ -31,3 +31,37 @@ Build a model that meets the following criteria:
 Use machine learning models to correctly classify wells with an accuracy score of 70% - 75%
 
 
+**FINDINGS.**
+
+
+The most common extraction type is gravity but second is hand pumps. The efficiency of handpumps are less than commercial pumps. It shows that authorities need to focus on pumping type. It is seen that, there are many non-functional water points which belongs to gravity (which is natural force so no need to do anything expensive) as extraction type.
+
+Iringa is one of the important areas but it contains lots of non-functional wateer points which has soft water.
+
+Government of Tanzania funds most of the waterpoints and are also among the top installers of water wells.
+
+Communal standpipe seems to be the most popular waterpoint type.
+
+Functional water wells were able to provide enough water to the population.
+
+A majority of wells found in the most populated areas need repairs, probably due to scrumbling and overusage.
+
+Majority of the functional wells provided enough water. However, there is an alarming number of non functional wells.
+
+The functional water points wer the most populated.
+
+Most water points that are not paid for are non functional.
+
+Wind powered and rope pump have the least amount of water available.
+
+The most common extraction type is gravity followed by hand pumps.
+
+**RECOMMENDATIONS.**
+
+
+The Government of Tanzania should put proper measure to ensure the mantainance and functionality of their waterpoints as a big number of them are non functional or need reopairs.
+
+The Government of Tanzania should make effort to ensure availability of water to the sparsely populated areas too as most of these sparsely populated ares did not seem to have enough water.
+
+The Government should channel more funds towards communal standpipe as most of them are non functional.
+
